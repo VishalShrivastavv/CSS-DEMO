@@ -1,0 +1,36 @@
+/* 
+            IMAGE CONTENT DESCRIPTION AND ALL CSS
+*/
+
+.flex-all-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+
+    padding: 4px 6px 1px 5px;
+    border-radius: -4px;
+    background:var(--main-bg-color);
+    border: 2px solid white;
+    color:#ffffff;
+    cursor:pointer;
+}
+
+.my-1{
+    margin:5px 0 ;
+
+}
+.my-2{
+    margin: 26px 0;
+    /* justify-content: center;
+    alig */
+}
+
+/* .my-3{
+
+} */
+
+.text-centre{
+    text-align: center;
+}
